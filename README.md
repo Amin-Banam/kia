@@ -1,4 +1,4 @@
-# kia
+# KIA
 ![viewfinal](kia.png)
 
 - [Demo Project](https://kia-nine.vercel.app/)
