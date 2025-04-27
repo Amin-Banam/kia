@@ -7,6 +7,6 @@
 
 - Created - 4.28.2025
 
-- Technologies Used - HTML ,tailwind ,Next JS
+- Technologies Used - HTML ,Tailwind ,Next JS
 
 - Role - Frontend
