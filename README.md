@@ -1,7 +1,7 @@
 # kia
 ![viewfinal](git_pic_store.png)
 
-- [Demo Project](https://storeamin.vercel.app/](https://kia-nine.vercel.app/)
+- [Demo Project](https://kia-nine.vercel.app/)
 
 - Developed by amin-banam
 
