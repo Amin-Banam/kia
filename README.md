@@ -1,5 +1,5 @@
 # kia
-![viewfinal](git_pic_store.png)
+![viewfinal](kia.png)
 
 - [Demo Project](https://kia-nine.vercel.app/)
 
